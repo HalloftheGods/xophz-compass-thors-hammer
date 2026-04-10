@@ -28,7 +28,7 @@ Bring the hammer down and ban spammers from making actions on your site.
 2. Upload `xophz-compass-thors-hammer` to `/wp-content/plugins/`.
 3. Activate through the Plugins menu.
 4. On activation, the plugin initializes the `wp_xophz_thors_hammer_bans` database table.
-5. Access via the COMPASS dashboard → **Thor's Hammer**.
+5. Access via the My Compass dashboard → **Thor's Hammer**.
 
 ## Database Tables
 
