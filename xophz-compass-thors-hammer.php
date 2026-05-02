@@ -14,6 +14,7 @@
  *
  * @wordpress-plugin
  * Category:          Castle Walls
+ * Group:             ITSM
  * Plugin Name:       Xophz Magic Hammer
  * Plugin URI:        https://github.com/HalloftheGods/xophz-compass-thors-hammer
  * Description:       Smite repeated offenders by banning accounts, ips, emails, etc. 
