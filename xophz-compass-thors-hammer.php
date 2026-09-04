@@ -54,8 +54,7 @@ function activate_xophz_compass_thors_hammer() {
  * This action is documented in includes/class-xophz-compass-thors-hammer-deactivator.php
  */
 function deactivate_xophz_compass_thors_hammer() {
-	require_once plugin_dir_path( __FILE__ ) . 'includes/class-xophz-compass-thors-hammer-deactivator.php';
-	Xophz_Compass_Thors_Hammer_Deactivator::deactivate();
+	Xophz_Compass_Thors_Hammer::deactivate();
 }
 
 register_activation_hook( __FILE__, 'activate_xophz_compass_thors_hammer' );
